@@ -10,3 +10,4 @@
 - docs 체계 수립: PRD / ROADMAP / CHANGELOG / LESSONS
 - 스키마 v1 확정 (profiles·applications·interviews·documents)
 - 관리자 기능 전략 정리 (사용자 수의 함수 → v1은 Supabase 콘솔로 대체)
+- 스키마 v1 DB 반영 (4테이블 + RLS 정책 + profiles 자동생성 + role 변경 방지 트리거)
